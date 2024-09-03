@@ -1,7 +1,7 @@
 ---
 title: "On Coexistence of Inhibition and Activation in Genetic Regulatory Networks"
 collection: publications
-category: Conferences
+category: conferences
 permalink: /publication/2023-On-Coexistence-of-Inhibition-and-Activation-in-Genetic-Regulatory-Networks
 excerpt: 'Dynamical mathematical models of Genomic Regulatory Networks are considered. We focus on attractors in these models, which has the form of a periodic trajectory. Our observations show that closed orbits can exist in phase spaces of a three-dimensional network with the regulatory matrices, where inhibitory cycle coexists with the activatory one. Examples, illustrations and results of numerical experiments are provided.'
 date: 2023-09-01

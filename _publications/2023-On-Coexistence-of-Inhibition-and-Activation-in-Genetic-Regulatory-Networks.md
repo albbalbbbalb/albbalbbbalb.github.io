@@ -7,7 +7,7 @@ excerpt: 'Dynamical mathematical models of Genomic Regulatory Networks are consi
 date: 2023-09-01
 venue: 'AIP PRESS'
 paperurl: 'https://pubs.aip.org/aip/acp/article/2849/1/120004/2909047/On-coexistence-of-inhibition-and-activation-in'
-citation: 'On Coexistence of Inhibition and Activation in Genetic Regulatory Networks Sadyrbaev, F., Sengileyev, V. & Silvans, A., 1-Sept-2023, <i>International Conference on Numerical Analysis and Applied Mathematics 2021<i/>. AIP PRESS, 5 p. ( AIP Conference Proceedings; vol. 2849, no. 1)'
+citation: 'On Coexistence of Inhibition and Activation in Genetic Regulatory Networks Sadyrbaev, F., Sengileyev, V. & Silvans, A., 1-Sept-2023, <i>International Conference on Numerical Analysis and Applied Mathematics 2021</i>. AIP PRESS, 5 p. ( AIP Conference Proceedings; vol. 2849, no. 1)'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

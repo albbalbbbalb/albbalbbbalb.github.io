@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Albert Silvans / Academic website"
+title                    : "Albert Silvans / Academic Page"
 title_separator          : "-"
 name                     : &name "A. Silvans"
 description              : &description "My academic website"
@@ -22,12 +22,12 @@ repository               : "albbalbbbalb/albbalbbbalb.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "PhD Student"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Physics and Statistics for Cognitive Devices."
   location         : "Groningen"
   employer         : "University of Groningen"
-  uri              : "https://www.rug.nl/staff/a.silvans/" # URL
+  uri              :  # URL
   email            : "a.silvans at rug.nl" 
 
   # Academic websites

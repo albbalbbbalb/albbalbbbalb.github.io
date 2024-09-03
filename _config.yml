@@ -12,8 +12,8 @@ title                    : "Albert Silvans / Academic Page"
 title_separator          : "-"
 name                     : &name "A. Silvans"
 description              : &description "My academic website"
-url                      : https://albbalbbbalb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://albbalbbbalb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "albbalbbbalb/albbalbbbalb.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,7 +21,7 @@ repository               : "albbalbbbalb/albbalbbbalb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "5958375651654354046 (copy 1).jpg"
   name             : "PhD Student"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Physics and Statistics for Cognitive Devices."
